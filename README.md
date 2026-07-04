@@ -8,7 +8,7 @@
 
 Designed for digital marketers, photographers, and small-to-medium enterprises (SMEs) in Sri Lanka and worldwide, this tool allows you to optimize your images directly on your browser without uploading your private files to any external servers.
 
-🔗 **[Try it Live Here!](https://samithatharanga.github.io/st-image-optimizer/)**
+🔗 **[Try it Live Here!](https://samithatharanga.github.io/image-optimizer-pro/)**
 
 ---
 
