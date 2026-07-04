@@ -1,0 +1,11 @@
+{
+  "name": "ST Image Optimizer Pro",
+  "short_name": "Optimizer Pro",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "icons": [
+    { "src": "https://cdn-icons-png.flaticon.com/512/2965/2965327.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
